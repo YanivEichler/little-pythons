@@ -18,4 +18,4 @@ Create QR codes from user input.
 A simple game of RPS.
 
 # website_checker.py
-Sends an HTTPS request to a user-given link, and prints the status from the response.
+Sends an HTTPS request to a user-given URL, and prints the status from the response.
